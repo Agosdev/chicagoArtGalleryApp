@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385959969168",
+    "project_id": "chicagoartgalleryapp",
+    "storage_bucket": "chicagoartgalleryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385959969168:android:0efd789ae1519de4d7b315",
+        "android_client_info": {
+          "package_name": "com.chicagoartgalleryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8yQ7Al1prfMjHQ6rmyVfhB5EJHHHAjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
